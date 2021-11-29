@@ -1,0 +1,3 @@
+from process_requirements_status import process_requirements_status
+
+process_requirements_status("requirements.txt")
